@@ -1,0 +1,9 @@
+# ignore all the files inside this folders
+/dist
+/node_modules
+
+# ignore all the files with this extension
+*.env
+
+# OS
+.DS_Store
